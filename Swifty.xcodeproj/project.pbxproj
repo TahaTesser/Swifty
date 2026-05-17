@@ -20,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		04D23C142FBA115D0013BD46 /* Swifty */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Swifty; sourceTree = BUILT_PRODUCTS_DIR; };
+		04D23C1E2FBA11A50013BD46 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -46,6 +47,7 @@
 			children = (
 				04D23C162FBA115D0013BD46 /* Swifty */,
 				04D23C152FBA115D0013BD46 /* Products */,
+				04D23C1E2FBA11A50013BD46 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
